@@ -24,6 +24,7 @@ Samples
 Time taken = ~10 minutes
 ![](https://raw.github.com/thekarangoel/Pixels/master/pixel.png)
 
+![](https://raw.github.com/upwhere/Pixels/master/linuxpixel.png)
 Share Your Pixels
 ==========
 
