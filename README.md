@@ -25,6 +25,11 @@ Time taken = ~10 minutes
 ![](https://raw.github.com/thekarangoel/Pixels/master/pixel.png)
 
 ![](https://raw.github.com/upwhere/Pixels/master/linuxpixel.png)
+
+`X = 1` `WIDTH = 1366` `HEIGHT = 768`
+Time taken = ~30 minutes
+![](https://raw.github.com/upwhere/Pixels/master/1366-pixel.png)
+
 Share Your Pixels
 ==========
 
